@@ -2,18 +2,20 @@
 
 <img src="image_streamlit.png" width="800" height="466">
 
+## Streamlit Link
+[App link](https://health-insurance-charges-prediction-v75m8mibpv77qv6jqrhoru.streamlit.app/)
 ## Project Overview
 This project aims to predict health insurance charges based on various personal factors such as age, BMI, smoking habits,number of children and region using machine learning algorithms. The primary goal is to build a predictive model that accurately estimates the insurance premiums individuals might expect based on their health and demographic information. The project also includes a user-friendly interface built with Streamlit, allowing users to input their details and receive instant charge predictions.
 
-### Datasets
+## Datasets
 The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance). It includes the following features:
-**1. Age:** The age of the individual.
-**2. Sex:** Insurance contractor gender, female, male.
-**3. BMI:** Body Mass Index, which is a measure of body fat based on height and weight.
-**4. Children:** The number of children covered by the insurance policy.
-**5. Smoker:** Whether the individual is a smoker or not.
-**6. Region:** The residential area of the individual in the US i.e. northeast, southeast, southwest, northwest.
-**7.Charges:** The medical costs billed by the health insurance provider.
+- **Age:** The age of the individual.
+- **Sex:** Insurance contractor gender, female, male.
+- **BMI:** Body Mass Index, which is a measure of body fat based on height and weight.
+- **Children:** The number of children covered by the insurance policy.
+- **Smoker:** Whether the individual is a smoker or not.
+- **Region:** The residential area of the individual in the US i.e. northeast, southeast, southwest, northwest.
+- **Charges:** The medical costs billed by the health insurance provider.
 
 ## Tools and Technologies Used
 - **Data Analysis:** Python (Pandas,Numpy)
