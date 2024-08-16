@@ -1,6 +1,6 @@
 # 💻 Health Insurance Charges Prediction Using Machine Learning
 
-<img src="image_streamlit.png" width="800" height="466">
+<img src="image_streamlit.png" width="1000" height="466">
 
 ## Streamlit Link
 [App link](https://health-insurance-charges-prediction-v75m8mibpv77qv6jqrhoru.streamlit.app/)
