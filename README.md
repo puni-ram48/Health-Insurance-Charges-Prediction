@@ -85,4 +85,4 @@ Please ensure your code is well-documented.
 This project was initiated and completed by Puneetha Dharmapura Shrirama. Special thanks to the Jeevitha DS for the guidance and support.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
