@@ -71,6 +71,9 @@ streamlit run app.py
   - The models were evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), RMSE and R-squared.
   - The best-performing model was selected for deployment.
 
+4. **Best Model**:
+   - The **SVM Regression model**, achieving an **R-squared** value of **0.8895**, demonstrates strong predictive performance for health insurance charges. Its accuracy in modeling complex relationships between features and charges makes it the ideal choice for deployment, ensuring reliable and precise insurance cost predictions.
+
 ## Contributing
 We welcome contributions to this project! If you would like to contribute, please follow these steps:
 1. Fork the repository.
